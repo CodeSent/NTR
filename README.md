@@ -1,0 +1,3 @@
+# Native C++ Scripting System
+
+This repository contains the native C++ scripting system, used for ...
